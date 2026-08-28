@@ -4,9 +4,9 @@ Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), 
 
 Este projeto é desenvolvido pelos seguintes alunos:
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- João Pedro de Souza Lima
+- Gustavo Aparecido Amado Souza
+- Luan Salandini Troccoli
 
 ## Conhecendo o problema
 
