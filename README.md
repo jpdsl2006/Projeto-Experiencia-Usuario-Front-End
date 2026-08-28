@@ -15,7 +15,11 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 - Apresente o objetivo. 
 - Apresente o usuário final.
 - Apresente os principais benefícios para o usuários.
-- Apresente as funcionalidades.
+- O aplicativo tem como funcionalidades:
+  - Cadastro de usuários e histórico médico.
+  - Agendamento de consultas
+  - Dashboard com calendário
+  - Configuração de Lembretes
 - Apresente as tecnologias e ferramentas computacionais utilizadas.
 - Apresente o contexto de uso.
 
