@@ -17,9 +17,9 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 - Apresente os principais benefícios para o usuários.
 - O aplicativo tem como funcionalidades:
   - Cadastro de usuários e histórico médico.
-  - Agendamento de consultas
-  - Dashboard com calendário
-  - Configuração de Lembretes
+  - Agendamento de consultas.
+  - Dashboard com calendário.
+  - Configuração de Lembretes.
 - Apresente as tecnologias e ferramentas computacionais utilizadas.
 - Apresente o contexto de uso.
 
