@@ -4,8 +4,8 @@ Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), 
 
 Este projeto é desenvolvido pelos seguintes alunos:
 
+- Gustavo Aparecido Amaro Souza
 - João Pedro de Souza Lima
-- Gustavo Aparecido Amado Souza
 - Luan Salandini Troccoli
 
 ## Conhecendo o problema
