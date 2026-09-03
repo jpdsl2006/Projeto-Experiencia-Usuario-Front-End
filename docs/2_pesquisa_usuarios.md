@@ -1,54 +1,47 @@
-# Pesquisa e Coleta de Dados com Usuários
+# Pesquisa com Usuários
 
-> **_NOTE:_**: O objetivo desta entrega é planejar e registrar como a equipe vai ouvir os usuários reais (ou representativos do público-alvo) antes de avançar para personas e cenários. Não é para relatar impressões da equipe — é para descrever o que será perguntado, para quem, como e por quê.
+## Aplicativo de Gerenciamento de Consultas Médicas
 
-1) **Identificação de Necessidades dos Usuários e Requisitos de UX**
-- Que dados coletar? (comportamentos, dores, expectativas, contexto de uso, frequência de uso, nível de familiaridade com tecnologia, etc.)
-- De quem coletar? (perfil do público-alvo e critérios de seleção dos participantes — quantos, onde encontrá-los)
+## 1) Identificação de Necessidades dos Usuários e Requisitos de UX
 
-2) **Aspectos Éticos**
-- Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.
-- Como o consentimento dos participantes será obtido (termo de consentimento)?
-- Como os dados coletados serão armazenados, anonimizados e descartados, considerando a LGPD?
+### Que dados coletar?
 
-3) **Ferramentas de Coleta de Dados (três técnicas diferentes)**
+- Como as pessoas organizam atualmente suas consultas médicas, incluindo as ferramentas utilizadas, como calendário, agenda de papel, WhatsApp, e-mail ou aplicativos de clínicas.
+- Principais dificuldades para lembrar datas e horários, localizar informações da consulta e organizar retornos médicos.
+- Frequência com que os participantes realizam consultas médicas ou ajudam familiares a organizá-las.
+- Situações em que os participantes esqueceram, confundiram ou chegaram atrasados a uma consulta.
+- Expectativas sobre lembretes, calendário, registro de consultas e compartilhamento de compromissos com familiares.
+- Informações consideradas importantes no cadastro de uma consulta, como data, horário, especialidade, profissional, local e documentos necessários.
+- Preferências dos usuários em relação à antecedência e ao canal dos lembretes.
+- Dificuldades enfrentadas por familiares que organizam consultas de outras pessoas.
+- Nível de facilidade dos participantes com aplicativos e outras ferramentas digitais.
 
-> **_NOTE:_**: Escolher técnicas complementares (ex.: uma qualitativa individual, uma qualitativa em grupo, uma quantitativa), não três variações da mesma técnica.
+### De quem coletar?
 
-Para cada instrumento, apresente:
-- Nome do instrumento e objetivo de aplicação
-- Explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)
-- Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
+- Familiares, amigos e conhecidos maiores de 18 anos que tenham realizado pelo menos uma consulta médica ou ajudado outra pessoa a organizar consultas nos últimos 12 meses.
+- **Amostra mínima:** 5 participantes para entrevistas e 30 respostas para o questionário.
+- **Recrutamento:** convites enviados pelos integrantes do grupo por WhatsApp, redes sociais e contato direto com familiares e amigos.
+- A participação será voluntária e não será necessário informar diagnóstico, doença, medicamento ou qualquer outro detalhe clínico.
 
----
+## 2) Aspectos Éticos
 
-## Exemplo de entrega
 
-> O exemplo abaixo é fictício — usa como cenário um app universitário de organização de grupos de estudo ("Estuda+") apenas para ilustrar o **nível de detalhe e formato** esperado. Não copie o conteúdo, copie a estrutura.
 
-### 1) Identificação de Necessidades dos Usuários e Requisitos de UX
+- Será apresentado um **Termo de Consentimento Livre e Esclarecido (TCLE)** antes de qualquer coleta, explicando o objetivo da pesquisa, a utilização acadêmica das respostas e o direito de desistência a qualquer momento.
+- Os participantes deverão confirmar que possuem 18 anos ou mais e que aceitam participar voluntariamente da pesquisa.
+- O questionário será respondido de forma anônima, sem a coleta obrigatória de nome, e-mail, telefone ou documento pessoal.
+- Não serão solicitadas informações sobre diagnósticos, doenças, medicamentos, resultados de exames ou tratamentos.
+- Os dados serão analisados de forma agrupada e utilizados exclusivamente no desenvolvimento acadêmico do projeto.
+- As respostas ficarão disponíveis apenas para os integrantes do grupo, respeitando os princípios de privacidade e proteção de dados da **LGPD (Lei nº 13.709/2018)**.
+- As gravações das entrevistas somente serão realizadas com autorização dos participantes.
+- As gravações serão apagadas ao final do projeto, mantendo-se apenas anotações ou transcrições anonimizadas utilizadas na análise.
+- As respostas individuais e a planilha original do formulário não serão publicadas no GitHub.
+- O repositório apresentará somente os instrumentos utilizados e os resultados consolidados, sem identificação dos participantes.
 
-**Que dados coletar?**
-- Como os alunos hoje organizam sessões de estudo em grupo (ferramentas usadas, frequência).
-- Principais dificuldades para combinar horários e manter o grupo engajado.
-- Expectativas sobre lembretes, divisão de tópicos de estudo e acompanhamento de progresso.
-
-**De quem coletar?**
-- Alunos de graduação de Ciência da Computação, do 2º ao 6º semestre, que já participaram de pelo menos um grupo de estudo nos últimos 6 meses.
-- Amostra mínima: 8 alunos para entrevistas, 40 respostas para o questionário.
-- Recrutamento: convite em grupos de turma no WhatsApp/Discord.
-
-### 2) Aspectos Éticos
-
-Sim, o projeto envolve dados pessoais de participantes (nome, e-mail, respostas sobre hábitos de estudo), portanto:
-- Será aplicado um **Termo de Consentimento Livre e Esclarecido (TCLE)** antes de qualquer coleta, explicando objetivo da pesquisa, uso dos dados e direito de desistência a qualquer momento.
-- Os dados serão coletados de forma **anonimizada** (sem nome/e-mail nas respostas do questionário) e armazenados apenas na equipe, em conformidade com a LGPD (Lei n.º 13.709/2018).
-- Gravações de entrevista serão apagadas ao final do projeto, mantendo-se apenas as transcrições anonimizadas usadas na análise.
-
-### 3) Ferramentas de Coleta de Dados
+## 3) Ferramentas de Coleta de Dados
 
 | Instrumento | Objetivo | Como aplicar | Link/Roteiro |
-| :---- | :---- | :---- | :---- |
-| **Entrevista semiestruturada** | Entender em profundidade como os alunos organizam e mantêm grupos de estudo, e onde o processo falha. | Sessão individual de 20-30 min, presencial ou por chamada de vídeo. Seguir o roteiro fixo, mas permitir perguntas de aprofundamento ("por quê?", "pode dar um exemplo?"). Gravar com autorização e transcrever depois. | Roteiro: 1) Como você organiza sessões de estudo hoje? 2) Conte sobre a última vez que um grupo de estudo não funcionou. 3) O que faria você usar um app específico para isso? |
-| **Questionário (Google Forms)** | Quantificar ferramentas usadas, frequência de grupos de estudo e principais frustrações, em uma amostra maior. | Divulgar o link em grupos de turma, aberto por 1 semana. Sem identificação pessoal, tempo estimado de resposta de 5 min. | `https://forms.google.com/exemplo-estuda-mais` *(placeholder — substituir pelo link real)* |
-| **Grupo focal** | Observar a discussão entre alunos sobre o que tornaria um grupo de estudo "bom", captando divergências de opinião difíceis de obter em entrevista individual. | Sessão única com 5-6 alunos, 45 min, mediada por um membro da equipe seguindo um roteiro de tópicos, com outro membro registrando anotações. | Roteiro de tópicos: hábitos atuais, ferramentas testadas e abandonadas, o que faria o grupo "durar" até a prova. |
+|---|---|---|---|
+| **Entrevista semiestruturada** | Entender em profundidade como as pessoas organizam suas consultas médicas, quais dificuldades enfrentam e quais recursos esperam de um aplicativo. | Sessão individual de aproximadamente 20 minutos, presencialmente ou por chamada de vídeo. Seguir o roteiro principal, permitindo perguntas de aprofundamento, como “por quê?”, “como aconteceu?” e “pode dar um exemplo?”. Gravar somente com autorização do participante e produzir uma transcrição anonimizada. | **Roteiro:** 1) Como você organiza suas consultas atualmente? 2) Conte sobre a última vez em que teve dificuldade para encontrar ou lembrar uma consulta. 3) Como você prefere ser lembrado sobre um compromisso médico? 4) Você ajuda alguém a organizar consultas? Como funciona? 5) O que faria você utilizar um aplicativo específico para isso? |
+| **Questionário on-line** | Quantificar as ferramentas utilizadas, a frequência das consultas, as principais dificuldades e as funcionalidades consideradas mais importantes por uma amostra maior. | Criar o questionário no Microsoft Forms ou Google Forms e divulgar o link entre familiares, amigos e conhecidos. Manter o formulário aberto por uma semana, sem identificação obrigatória e com tempo estimado de resposta de aproximadamente 5 minutos. | link forms |
+| **Grupo focal** | Observar a discussão entre participantes sobre o que tornaria um aplicativo de consultas médicas simples, confiável e útil, identificando opiniões e necessidades que podem não aparecer nas respostas individuais. | Realizar uma sessão com 5 ou 6 participantes, mediada por um integrante do grupo. Um segundo integrante deverá registrar as observações. Evitar discussões sobre diagnósticos ou condições médicas pessoais e direcionar a conversa para a experiência de organização das consultas. | **Roteiro de tópicos:** métodos atuais de organização, dificuldades com datas e horários, experiências com lembretes, organização de consultas de familiares, informações mais importantes e motivos para utilizar ou abandonar o aplicativo. |
