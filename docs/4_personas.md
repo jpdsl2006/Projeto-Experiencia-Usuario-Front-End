@@ -4,7 +4,7 @@
 
 ## Persona primária: Giselle Souza
 
-<img width="512" height="510" alt="image" src="https://github.com/user-attachments/assets/9767381b-c481-4275-94f4-2abebe2dc56f" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/9767381b-c481-4275-94f4-2abebe2dc56f" />
 
 
 | Campo | Descrição |
