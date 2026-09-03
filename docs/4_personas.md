@@ -39,7 +39,8 @@
 ## Persona Primária: Antenor Vasconcelos
 
 
-<img width="1254" height="1254" alt="image" src="docs/imagens/Antenor Vasconcelos.jpeg" />
+<img width="1024" height="1024" alt="Antenor Vasconcelos" src="https://github.com/user-attachments/assets/b50be5cf-c93f-4b88-b3bd-9ff6640eb943" />
+
 
 
 | Campo | Descrição |
