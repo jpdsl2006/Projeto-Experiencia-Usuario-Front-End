@@ -4,6 +4,7 @@
 
 ## Persona primária: Giselle Souza
 
+
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/9767381b-c481-4275-94f4-2abebe2dc56f" />
 
 
@@ -32,6 +33,40 @@
 | **Pensa e sente** | Quer ter segurança de que os compromissos não estão em conflito; espera encontrar rapidamente todas as informações; considera importante receber avisos com bastante antecedência. |
 | **Dores** | Risco de marcar consultas em horários próximos e lugares distantes; possibilidade de esquecer compromissos; necessidade de consultar diferentes canais para encontrar informações; dificuldade para visualizar consultas de várias especialidades. |
 | **Ganhos** | Visualização centralizada das consultas; identificação de conflitos de horário e distância; lembretes antecipados; acesso rápido à especialidade, ao profissional, ao local e ao horário de cada compromisso. |
+
+---
+
+## Persona Primária: Antenor Vasconcelos
+
+
+<img width="1254" height="1254" alt="image" src="docs/imagens/Antenor Vasconcelos.jpeg" />
+
+
+| Campo | Descrição |
+|---|---|
+| **Idade** | 74 anos |
+| **Ocupação** | Aposentado; mantém uma rotina ativa com caminhadas diárias e cuida da própria saúde de forma independente. |
+| **Status** | Persona primária |
+| **Citação** | “Quero organizar minhas consultas sozinho, mas preciso de letras grandes e passos simples sem complicação na tela.” |
+| **Objetivos** | Acompanhar rotineiramente especialistas (cardiologista, oftalmologista, endocrinologista); manter a independência na gestão da saúde; evitar o esquecimento de datas e horários de exames. |
+| **Nível de tecnologia** | Básico. Utiliza o smartphone principalmente para mensagens de voz, videochamadas com a família e aplicativos com interfaces limpas. Sentimentos de frustração quando a tela possui botões muito pequenos. |
+| **Habilidades** | Muito comprometido com os horários e orientações médicas; prefere rotinas bem estruturadas e rotulagem clara nas ferramentas que utiliza. |
+| **Tarefas** | Consultar a data da próxima consulta; confirmar o endereço do consultório; verificar os nomes dos médicos; acompanhar os lembretes do aplicativo. |
+| **Relacionamentos** | Interage com médicos de acompanhamento contínuo, recepcionistas de clínicas e familiares (filhos/netos) que ocasionalmente o ajudam a confirmar detalhes de transporte. |
+| **Requisitos** | Interface com alto contraste e fontes amplias; navegação simplificada com poucos cliques; confirmação visual após realizar uma ação; lembretes sonoros e destacados. |
+| **Expectativas** | Espera um aplicativo fácil de ler, intuitivo e direto ao ponto, que avise com antecedência sobre as consultas para ele poder se planejar sem pressa. |
+| **Frustração principal** | Aplicativos com letras pequenas, menus escondidos ou passos confusos que o fazem depender de outras pessoas para agendar ou ver seus compromissos. |
+
+### Mapa de Empatia: Antenor Vasconcelos
+
+| Quadrante | Descrição |
+|---|---|
+| **Vê** | Receitas médicas impressas, carteirinhas de planos de saúde, lembretes anotados em papéis ao lado do telefone e telas de celular que às vezes acha difíceis de ler. |
+| **Ouve** | Conselho dos filhos para ter cuidado e não esquecer os exames; orientações claras dos médicos sobre a importância do acompanhamento constante. |
+| **Diz e faz** | Esforça-se para ser autônomo; pergunta aos familiares como usar novas funções do celular quando encontra dificuldades; gosta de chegar com antecedência às consultas. |
+| **Pensa e sente** | Valoriza muito sua autonomia e bem-estar; tem receio de esquecer datas importantes ou se perder em ferramentas diárias complexas; sente satisfação ao conseguir resolver suas tarefas sozinho. |
+| **Dores** | Dificuldade de leitura em telas com texto pequeno; esquecimento de datas devido ao volume de especialistas; receio de clicar em botões errados no aplicativo. |
+| **Ganhos** | Manutenção da sua independência no dia a dia; facilidade de leitura das informações médicas; tranquilidade de ter todos os seus compromissos organizados em um só lugar. |
 
 ---
 
@@ -66,13 +101,6 @@
 | **Pensa e sente** | Quer ajudar sem retirar a autonomia do familiar; preocupa-se em receber a informação tarde demais; espera que o compartilhamento seja simples, seguro e limitado ao necessário. |
 | **Dores** | Informações espalhadas em mensagens; dificuldade para saber se uma consulta foi alterada; dependência de avisos manuais; risco de esquecer compromissos que não estão no próprio calendário; preocupação com privacidade. |
 | **Ganhos** | Recebimento de lembretes autorizados; acesso rápido a data, horário e endereço; atualização automática quando uma consulta for alterada; maior tranquilidade ao ajudar o familiar; compartilhamento controlado das informações. |
-
----
-
-
-
-
-
 
 ---
 
