@@ -1,55 +1,81 @@
 # Personas
 
-> **_NOTE:_**: A Persona transforma o Perfil do Usuário (dados reais, agregados) em um arquétipo fictício único, que humaniza o público-alvo e orienta decisões de design. Use o segmento priorizado na etapa anterior como base — não invente características que contradigam a pesquisa.
+---
 
-- Apresente apenas as personas primárias (o(s) segmento(s) priorizado(s) no Perfil do Usuário). Personas secundárias só se forem realmente necessárias para alguma decisão de design.
-- Para cada persona, apresente: nome, foto de rosto, idade, ocupação, uma frase/citação que resuma sua motivação ou frustração principal, objetivos em relação ao produto/serviço e nível de familiaridade com tecnologia.
-- Toda característica da persona deve ser rastreável aos dados coletados na pesquisa (não adicione traços "porque parece razoável").
+## Persona primária: Giselle Souza
 
-> **_NOTE:_**: Cada persona deve ter uma foto de rosto que a represente. Vocês podem utilizar esse [site](https://thispersondoesnotexist.com/) para gerar as fotos.
+<img width="512" height="510" alt="image" src="https://github.com/user-attachments/assets/9767381b-c481-4275-94f4-2abebe2dc56f" />
 
-# Mapa de Empatia
 
-![Mapa de empatia](imagens/empatia.png)
+| Campo | Descrição |
+|---|---|
+| **Idade** | 24 anos |
+| **Ocupação** | Jovem adulta que organiza pessoalmente sua rotina de compromissos e consultas médicas. |
+| **Status** | Persona primária |
+| **Citação** | “Preciso visualizar todas as minhas consultas para não marcar horários próximos em lugares muito distantes.” |
+| **Objetivos** | Centralizar e organizar sua rotina de saúde; evitar o agendamento de consultas de especialidades diferentes no mesmo dia, em horários próximos e localidades distantes; lembrar-se dos compromissos com antecedência. |
+| **Nível de tecnologia** | Alto. Utiliza o bloco de notas para organizar suas finanças e a agenda do celular para visualizar seus compromissos diários. |
+| **Habilidades** | Possui perfil organizado e familiaridade com aplicativos de agenda, calendário e anotações. |
+| **Tarefas** | Realizar agendamentos; consultar compromissos futuros; gerenciar consultas de diferentes especialidades; comparar datas, horários e localidades; acompanhar os lembretes enviados pelo aplicativo. |
+| **Relacionamentos** | Interage com atendentes e recepcionistas de clínicas quando precisa verificar a agenda de um profissional, confirmar o endereço ou buscar horários mais adequados. |
+| **Requisitos** | Interface visual e intuitiva; visualização clara da especialidade, localização da clínica, profissionais disponíveis e horários; calendário centralizado; identificação de possíveis conflitos entre compromissos. |
+| **Expectativas** | Espera que o aplicativo seja proativo e envie alertas 1 mês, 15 dias, 7 dias, 3 dias e 1 dia antes de cada consulta. |
+| **Frustração principal** | Ter informações espalhadas ou perceber tarde demais que agendou consultas em horários próximos e locais distantes. |
 
-- Determine o mapa de empatia[1] de pelo menos duas personas primárias e uma secundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou produto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou produto. Quais expectativas o usuário cria sobre o serviço ou produto? Que tipo de serviço ou produto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou produto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou produto satisfaz?
+### Mapa de Empatia: Giselle Souza
 
-> **_NOTE:_**: Contexto de Uso e Jornada do Usuário ficam na próxima entrega ([Cenário de Análise/Problema](5_cenarios.md)).
+| Quadrante | Descrição |
+|---|---|
+| **Vê** | Compromissos registrados na agenda do celular, anotações no bloco de notas, mensagens enviadas por clínicas e diferentes informações sobre horários, especialidades e endereços. |
+| **Ouve** | Confirmações e orientações de atendentes e recepcionistas, além de lembretes enviados pelas clínicas sobre consultas agendadas. |
+| **Diz e faz** | Consulta a agenda do celular antes de marcar compromissos; organiza informações em ferramentas digitais; entra em contato com clínicas para confirmar horários, profissionais e localidades. |
+| **Pensa e sente** | Quer ter segurança de que os compromissos não estão em conflito; espera encontrar rapidamente todas as informações; considera importante receber avisos com bastante antecedência. |
+| **Dores** | Risco de marcar consultas em horários próximos e lugares distantes; possibilidade de esquecer compromissos; necessidade de consultar diferentes canais para encontrar informações; dificuldade para visualizar consultas de várias especialidades. |
+| **Ganhos** | Visualização centralizada das consultas; identificação de conflitos de horário e distância; lembretes antecipados; acesso rápido à especialidade, ao profissional, ao local e ao horário de cada compromisso. |
 
 ---
 
-## Exemplo de entrega
+## Persona secundária: Roberto Almeida
 
-> Continuação do exemplo fictício do app "Estuda+", usando o segmento "Participante" priorizado no [Perfil do Usuário](3_perfil_usuario.md). Copie a estrutura, não o conteúdo.
 
-### Persona primária: Marina Souza
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/2d3ba07f-53c2-485b-a208-166597aad946" />
 
-![foto de rosto ilustrativa](imagens/random-person.jpeg)
 
 | Campo | Descrição |
-| :---- | :---- |
-| **Idade** | 20 anos |
-| **Ocupação** | Estudante de Ciência da Computação (4º semestre), estagiária meio período |
-| **Citação** | "Eu entro no grupo animada, mas depois de duas semanas ninguém mais responde." |
-| **Objetivos** | Manter um grupo de estudo ativo até a prova, sem precisar ser ela quem cobra todo mundo. |
-| **Nível de tecnologia** | Alto — usa smartphone o dia todo, já usa WhatsApp/Discord para grupos de estudo. |
-| **Frustração principal** | Grupos de estudo perdem engajamento depois de 1-2 semanas; ninguém sabe quem devia estudar qual tópico. |
+|---|---|
+| **Idade** | 48 anos |
+| **Ocupação** | Profissional administrativo que auxilia um familiar na organização de consultas médicas. |
+| **Status** | Persona secundária, hipótese a ser validada pela pesquisa |
+| **Citação** | “Eu não preciso controlar todas as informações, mas quero ajudar meu familiar a lembrar dos compromissos importantes.” |
+| **Objetivos** | Ajudar um familiar a acompanhar consultas; receber lembretes dos compromissos compartilhados; consultar rapidamente data, horário e endereço quando precisar prestar auxílio. |
+| **Nível de tecnologia** | Intermediário. Utiliza smartphone, WhatsApp, e-mail e calendário digital, mas prefere funcionalidades simples e com poucos passos. |
+| **Habilidades** | Consegue utilizar aplicativos cotidianos, consultar calendários, receber notificações e acessar informações compartilhadas. |
+| **Tarefas** | Acompanhar consultas compartilhadas; verificar datas e horários; lembrar o familiar sobre compromissos; consultar o endereço da clínica; auxiliar em alterações ou cancelamentos quando necessário. |
+| **Relacionamentos** | Interage principalmente com o familiar que recebe o atendimento e, ocasionalmente, com atendentes ou recepcionistas das clínicas. |
+| **Requisitos** | Compartilhamento de consultas com autorização; notificações apenas dos compromissos selecionados; visualização simplificada das informações; proteção dos dados pessoais; diferenciação entre acompanhar uma consulta e alterar seus dados. |
+| **Expectativas** | Espera que o aplicativo permita acompanhar compromissos específicos sem acessar informações desnecessárias e sem precisar utilizar a conta principal do familiar. |
+| **Frustração principal** | Receber informações incompletas ou em cima da hora e precisar procurar datas, horários e endereços em diferentes conversas. |
 
-### Mapa de Empatia — Marina
+### Mapa de Empatia: Roberto Almeida
 
 | Quadrante | Descrição |
-| :---- | :---- |
-| **Vê** | Grupos de WhatsApp silenciosos, mensagens antigas sem resposta, colegas postando resumos de estudo no Instagram. |
-| **Ouve** | Colegas comentando "vamos criar um grupo pra prova" — que raramente vinga; professor cobrando conteúdo acumulado perto da prova. |
-| **Diz e faz** | Entra em grupos recém-criados com entusiasmo; para de responder quando ninguém mais participa; estuda sozinha nas últimas semanas antes da prova. |
-| **Pensa e sente** | Acha que estudar em grupo ajudaria mais; sente-se culpada por "abandonar" grupos; insegura sobre se está estudando o conteúdo certo. |
-| **Dores** | Falta de clareza sobre quem estuda o quê; ausência de lembretes; grupos que morrem sem ninguém assumir a organização. |
-| **Ganhos** | Divisão automática de tópicos, lembretes de sessão, sensação de progresso visível do grupo. |
+|---|---|
+| **Vê** | Mensagens de WhatsApp com datas e endereços, papéis de agendamento, notificações encaminhadas pelo familiar e diferentes informações espalhadas entre conversas e calendários. |
+| **Ouve** | Pedidos do familiar para ajudar a lembrar uma consulta, orientações de atendentes e avisos sobre alterações de data ou horário. |
+| **Diz e faz** | Pergunta quando será a próxima consulta; registra compromissos importantes no próprio calendário; envia lembretes ao familiar; procura o endereço antes do compromisso; ajuda quando existe alteração ou cancelamento. |
+| **Pensa e sente** | Quer ajudar sem retirar a autonomia do familiar; preocupa-se em receber a informação tarde demais; espera que o compartilhamento seja simples, seguro e limitado ao necessário. |
+| **Dores** | Informações espalhadas em mensagens; dificuldade para saber se uma consulta foi alterada; dependência de avisos manuais; risco de esquecer compromissos que não estão no próprio calendário; preocupação com privacidade. |
+| **Ganhos** | Recebimento de lembretes autorizados; acesso rápido a data, horário e endereço; atualização automática quando uma consulta for alterada; maior tranquilidade ao ajudar o familiar; compartilhamento controlado das informações. |
 
-[1] Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+---
+
+
+
+
+
+
+---
+
+## Fonte do modelo de Mapa de Empatia
+
+Estrutura adaptada do conteúdo sobre Mapa de Empatia da [Haze Shift](https://hazeshift.com.br/mapa-de-empatia/).
