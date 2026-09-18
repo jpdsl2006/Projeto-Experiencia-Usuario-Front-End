@@ -5,11 +5,14 @@
     *   ![Tela de agendamento Doctoralia](https://pro.doctoralia.com.br/hs-fs/hubfs/Imported_Blog_Media/6G2Fy9X_p4o_pC1udKXJdQvpBDcULZrknxJPj2eZsfmNkFqOdESu7_MX6TO3aBbE9mpP89seXF5hRn9eqleMd235Xl6gmdFrEpWDfJ3WAqBUGloE999tpHsqlFMrdNycDSiZHDS6pygigBzvrN9xyP4s8kcAVTfOkfZ2OLH8TbES36sMf7s0YgsMVl03-w.png?width=1675&height=1373&name=6G2Fy9X_p4o_pC1udKXJdQvpBDcULZrknxJPj2eZsfmNkFqOdESu7_MX6TO3aBbE9mpP89seXF5hRn9eqleMd235Xl6gmdFrEpWDfJ3WAqBUGloE999tpHsqlFMrdNycDSiZHDS6pygigBzvrN9xyP4s8kcAVTfOkfZ2OLH8TbES36sMf7s0YgsMVl03-w.png)
 
 )
+
 *   **Google Agenda (Calendar):** Aplicativo padrão de calendário utilizado pelos usuários para tentar organizar a rotina. (Link: calendar.google.com)
-    *   ![Tela de evento do Google Agenda](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/color-coded-google-calendar-overview.jpeg
-)
+    *   ![Tela de evento do Google Agenda](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/color-coded-google-calendar-overview.jpeg)
+
+
 *   **WhatsApp (Clínicas):** Canal de comunicação utilizado pelas recepcionistas para envio de confirmações e lembretes manuais. (Link: whatsapp.com)
     *   ![Tela de chat com clínica no WhatsApp](https://www.consultorio.live/img/ConfirmacaoWhatsapp3.png)
+
 
 
 **2. Características e funcionalidades**
