@@ -6,11 +6,11 @@
 
 )
 *   **Google Agenda (Calendar):** Aplicativo padrão de calendário utilizado pelos usuários para tentar organizar a rotina. (Link: calendar.google.com)
-    *   ![Tela de evento do Google Agenda](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/color-coded-google-calendar-overview.jpeg)
+    *   ![Tela de evento do Google Agenda](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/color-coded-google-calendar-overview.jpeg
 )
 *   **WhatsApp (Clínicas):** Canal de comunicação utilizado pelas recepcionistas para envio de confirmações e lembretes manuais. (Link: whatsapp.com)
-    *   ![Tela de chat com clínica no WhatsApp](https://lh3.googleusercontent.com/rd-gg-dl/AAQ_wbFtDneqD2H0IrPdKftv0Q11CJk0bFaL7s17KTujPRotOYyFFOmSqYyBGrYS99Ns6ctqCYjN2x6FdJjnXHVsii79Uh7y013PQYgaHQPage62PnKOjj1NQjX98bn89DTwiazgZl_TFMS7czjwkvPz9zG-p8HS6YsjB-aipjMKyCIKZVqvw5JzjCnKhRlaMFbysMq57s299XmVcwMbQQ8fOKulopwQfWW2-TY6aPAsQddKxv3AwQG9eRIfUBl-LrUVGRZihNC--2QPPamFa6kGBZq08EbmK04cCHMdp1sKY0C6kayXXmFrcRMYDGuWwwBIrYVEkxBzUiti4vr1R9FUoSCgmMSbDAtSDd10RVppbHEfYXWA_HuNgiw62rEZZ4hR90l6TGjqbIPgW-127BwwtQTk2uWKRFquE1Ys4wA_JTnKUjKurbGQFiNymYY2wDCgg5GM6e6PtCnxqztPj4kM5wlV92czd9pzna1JIq0fE6lwTJ6dsqIPlZtzoCYBFZTQ8HN0W5hJm4OyBSG-RlrzBDUaOSkp4IweNaAdg_PkBp21RuXuCdalXXElEFVA1DWFJfAqvq8xht-zSfcj2BnwkRnjNzrVHNP6bHlIW2OtTKHgWlCAmpQ9TXbxfZdV2HtWRz-D5KbT_Pe05iKAf9wMiEWh-mkWVvn66OU0FsqSQysHj5kJ37CXtPIV_CqvbV1SZnXfc7CgmIpthL7eBr7OXcRYDhkc8GuWzmutWPTWlBpaOcsYtjilOanj7RckFMXb9OHqxJCDjds3HWtYCuSQJKhb8yUxe7X44bue1GKISqN7do3SeQR2PwR7RXa6yuOWHf43AY9yixClsfs1hEd695XIDnrcqIhawh2GD0HKRy271Z_QXz8ABalLUh91vDTf3vbuVFZzds8gSRR99EggbuHiN1yOQRTpTxGQpIxMLtu1bPobCjEGWcph4Cv5c5rj7zaTwV0OTFDPU0TiMiFlJPH7GC53YlNS1pub8YASOEEq7PGFSzgN-xo54099h2va7TUB820ePRRPRnHiMMC4WUw1X82Ak7x64Lgk8Ag6yhNIGPZPVZTEWJxCip9C8Em2RqJGKa73RD0StWX5OESMsHX1pOFWT9O0GSgDu6_QmYSd5lvuc3X8pC_Fb8cDUdEck_BcDUwLFPH7p7a8JAe8S3IPxr3EgZ9AknkbMa427VE70TPwuIYV9x-9wa8Ytu-tjYGF0Acq-hA5pYNtmtf8pB6CYjNtYqjlgEPMtLVzzSF2u5sqb1896M_tyJjADXDkRDUr=s1024-rj
-)
+    *   ![Tela de chat com clínica no WhatsApp](https://www.consultorio.live/img/ConfirmacaoWhatsapp3.png)
+
 
 **2. Características e funcionalidades**
 *   **Doctoralia:** Oferece busca de médicos por especialidade, avaliações de outros pacientes, agendamento online e lembretes automáticos focados na consulta agendada pelo app.
