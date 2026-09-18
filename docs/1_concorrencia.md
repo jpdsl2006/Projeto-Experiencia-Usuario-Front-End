@@ -2,13 +2,13 @@
 
 **1. Principais concorrentes e ferramentas utilizadas**
 *   **Doctoralia:** Plataforma de agendamento de consultas e busca por especialistas. (Link: doctoralia.com.br)
-    *   ![Tela de agendamento Doctoralia](<img width="1913" height="990" alt="image" src="https://github.com/user-attachments/assets/eb11c491-5a03-4e98-a1aa-2e76f911b5ef" />
+    *   ![Tela de agendamento Doctoralia](<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/eb11c491-5a03-4e98-a1aa-2e76f911b5ef" />
 )
 *   **Google Agenda (Calendar):** Aplicativo padrão de calendário utilizado pelos usuários para tentar organizar a rotina. (Link: calendar.google.com)
-    *   ![Tela de evento do Google Agenda](<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/46052c19-3416-43cd-8649-c1a9ff3f1941" />
+    *   ![Tela de evento do Google Agenda](<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/46052c19-3416-43cd-8649-c1a9ff3f1941" />
 )
 *   **WhatsApp (Clínicas):** Canal de comunicação utilizado pelas recepcionistas para envio de confirmações e lembretes manuais. (Link: whatsapp.com)
-    *   ![Tela de chat com clínica no WhatsApp](<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/1515bd0f-afc7-441e-b4bf-1974b933b161" />
+    *   ![Tela de chat com clínica no WhatsApp](<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/1515bd0f-afc7-441e-b4bf-1974b933b161" />
 )
 
 **2. Características e funcionalidades**
