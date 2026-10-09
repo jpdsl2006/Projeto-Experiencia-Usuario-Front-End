@@ -1,78 +1,107 @@
-# Cenário de Análise/Problema
+# 1. Cenário de Análise/Problema
 
-> **_NOTE:_**: A equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.
+Giselle Souza tem 24 anos e costuma utilizar o celular para organizar seus compromissos pessoais e acadêmicos. Apesar de ter facilidade com tecnologia, ela enfrenta dificuldades para manter sua rotina de saúde organizada.
 
-1) **Cenário de Análise/Problema**
-- Escreva uma narrativa (não uma lista de requisitos) contando como a persona vive o problema hoje.
-- Baseie-se nas dores identificadas no [Perfil do Usuário](3_perfil_usuario.md) e no [Mapa de Empatia](4_personas.md) — não invente um problema novo.
-- Não mencione o produto/serviço que a equipe vai construir; a história descreve a vida da persona **antes** dele existir.
+Durante uma consulta médica, o médico recomenda que ela retorne em seis meses e entrega alguns pedidos de exames impressos. Giselle acredita que ainda falta muito tempo para a próxima consulta e acaba não registrando a orientação no calendário.
 
-2) **Questões de Refinamento**
-- Levante perguntas sobre o cenário que ainda ficaram em aberto: por que isso acontece? Acontece sempre ou só às vezes? Quem mais é afetado? O que a persona já tentou para resolver?
-- O objetivo é encontrar lacunas e suposições no cenário inicial, não respondê-las ainda.
+Ao voltar à rotina, esquece gradualmente que precisa marcar o retorno e guarda os documentos em uma gaveta junto com outros papéis. Meses depois, quando se lembra de que precisa voltar ao médico, percebe que não sabe exatamente quando deveria ter agendado a consulta.
 
-3) **Refinamento do Cenário de Análise/Problema**
-- Reescreva o cenário incorporando as respostas às questões de refinamento, tornando-o mais específico, concreto e verificável.
+Para piorar, não consegue encontrar o pedido de exame de que precisa entre os documentos guardados. Frustrada, Giselle perde tempo procurando as folhas e considera entrar em contato com a clínica para solicitar uma segunda via.
 
-4) **Contexto de Uso**
-- Descreva o ambiente em que o problema ocorre (e onde o futuro produto/serviço deverá ser utilizado).
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente devem ser consideradas antes de qualquer interação?
-- O que normalmente está acontecendo no ambiente quando o problema ocorre?
-
-5) **Jornada do Usuário (atual, sem solução)**
-- Descreva a jornada da persona enfrentando o problema **hoje**, do início ao fim do cenário — sem envolver o produto/serviço que a equipe vai construir.
-- Aponte, em cada etapa, o estado emocional da persona (frustração, confiança, dúvida, satisfação).
-- Complemente com um diagrama de jornada (`journey`) do Mermaid, agrupando as etapas em seções e atribuindo uma nota de 1 (péssimo) a 9 (ótimo) ao estado emocional de cada uma.
+Mesmo utilizando o celular diariamente, ela sente dificuldade para acompanhar o próprio histórico médico e teme deixar passar orientações importantes para sua saúde.
 
 ---
 
-## Exemplo de entrega
+# 2. Questões de Refinamento
 
-> Continuação do exemplo fictício do app "Estuda+", usando a persona [Marina Souza](4_personas.md). Copie a estrutura, não o conteúdo.
+1. Isso acontece com todos os retornos médicos de Giselle ou principalmente com aqueles que precisam ser agendados meses depois?
+2. Por que Giselle esquece de registrar os retornos, mesmo utilizando um calendário digital diariamente?
+3. Com que frequência ela perde documentos médicos ou tem dificuldade para encontrá-los?
+4. Ela já precisou solicitar uma segunda via de um pedido de exame ou atrasar um procedimento por não encontrar o documento?
+5. Giselle já tentou utilizar alarmes, anotações ou outros métodos para evitar esses esquecimentos? O que aconteceu?
+6. O problema afeta somente Giselle ou ela também precisa organizar documentos médicos de familiares?
+7. Quais são as principais consequências dessa desorganização: perda de tempo, gastos extras, preocupação ou atraso no acompanhamento médico?
 
-### 1) Cenário de Análise/Problema
+---
 
-Marina está no 4º semestre e, como sempre faz antes de provas, entra em um grupo de WhatsApp criado por uma colega para estudar Estruturas de Dados junto com mais quatro pessoas da turma. Na primeira semana, todo mundo manda mensagens animadas combinando encontros e trocando resumos. Mas ninguém definiu quem ficaria responsável por qual tópico, e aos poucos as mensagens ficam mais espaçadas. Duas semanas antes da prova, o grupo está praticamente silencioso — só restam mensagens antigas sem resposta. Marina não sabe se deve cobrar os colegas, criar outro grupo do zero ou simplesmente desistir e estudar sozinha, como acabou fazendo nas últimas duas vezes.
+# 3. Refinamento do Cenário de Análise/Problema
 
-### 2) Questões de Refinamento
+Giselle tem facilidade para utilizar ferramentas digitais e costuma consultar o calendário do celular para organizar seus compromissos. Entretanto, quando recebe uma orientação médica para retornar em seis meses, ela nem sempre registra a necessidade de agendar uma nova consulta.
 
-- Isso acontece com todos os grupos de estudo da Marina ou só com alguns?
-- Por que ninguém assume a organização do grupo depois da primeira semana?
-- O problema é falta de ferramenta (lembrete, divisão de tarefas) ou falta de compromisso dos colegas?
-- Existe um momento específico em que o grupo começa a esvaziar?
-- Marina já tentou algo para reverter a situação? O que aconteceu?
+Como o retorno parece distante, acaba priorizando outras responsabilidades e confia que conseguirá se lembrar quando chegar o momento.
 
-### 3) Refinamento do Cenário de Análise/Problema
+Enquanto isso, os pedidos de exames impressos ficam guardados em uma gaveta, misturados a outros documentos. Quando precisa consultar uma dessas guias ou verificar as orientações da consulta anterior, Giselle perde tempo procurando entre as folhas e nem sempre encontra o que procura.
 
-Nas três últimas vezes em que Marina participou de grupos de estudo, o padrão se repetiu: o grupo é criado de forma informal, sem que ninguém assuma explicitamente a organização, e sem dividir quem estuda qual tópico. Passada a primeira semana — justamente quando o volume de conteúdo aumenta e a rotina de estágio de Marina fica mais apertada —, as respostas somem. Ela já tentou mandar mensagem cobrando o grupo duas vezes, mas se sentiu "chata" fazendo isso e parou. O problema não é falta de vontade de estudar em grupo: é a ausência de qualquer estrutura (divisão de tópicos, lembretes, um responsável) que sustente o grupo depois do entusiasmo inicial.
+Ao perceber que precisa marcar o retorno, pode descobrir que deixou passar o período recomendado e não tem todas as informações necessárias à mão. Ela considera entrar em contato com a clínica para esclarecer dúvidas ou solicitar uma segunda via, o que acrescenta mais uma tarefa à sua rotina.
 
-### 4) Contexto de Uso
+A situação gera frustração porque, apesar de sua familiaridade com a tecnologia, Giselle ainda depende da memória e da organização de papéis físicos para acompanhar a própria saúde.
 
-- Marina usa o celular entre aulas e à noite, geralmente em casa ou na biblioteca da faculdade, com Wi-Fi ou 4G.
-- Contexto social: grupo de 4-6 colegas de turma, sem hierarquia definida — ninguém "responsável" formalmente pelo grupo.
-- O problema se intensifica na semana anterior às provas, quando o volume de conteúdo e a ansiedade aumentam.
-- Marina normalmente está com atenção dividida (entre uma aula e outra, ou cansada depois do estágio) quando tenta engajar o grupo.
+O problema se torna especialmente difícil quando existe um intervalo longo entre as consultas, pois ela perde de vista tanto a necessidade de agendamento quanto a localização dos documentos relacionados ao atendimento anterior.
 
-### 5) Jornada do Usuário (atual, sem solução) — Marina
+> **Observação:** A repetição do problema em retornos de longo prazo e a possível solicitação de segunda via são hipóteses coerentes com o perfil fornecido, mas precisam ser confirmadas por pesquisa.
 
-| Etapa | O que acontece | Estado emocional |
-| :---- | :---- | :---- |
-| 1. Criação do grupo | Uma colega cria um grupo no WhatsApp e convida a turma para estudar juntos. | Animada |
-| 2. Primeira semana | Mensagens trocadas com entusiasmo, mas sem definir quem estuda o quê. | Confiante |
-| 3. Silêncio no grupo | Colegas param de responder; ninguém assume a organização. | Frustrada |
-| 4. Tentativa de reverter | Marina manda uma mensagem cobrando o grupo; poucas ou nenhuma resposta. | Insegura |
-| 5. Véspera da prova | Marina desiste do grupo e estuda sozinha, sem saber se cobriu os tópicos certos. | Exausta / decepcionada |
+---
+
+# 4. Contexto de Uso
+
+### Contexto tecnológico
+
+Giselle utiliza o celular diariamente, principalmente para organizar compromissos pessoais e consultar seu calendário digital.
+
+### Contexto social
+
+É uma jovem adulta que procura administrar a própria saúde enquanto concilia estudos e outras responsabilidades.
+
+### Contexto econômico
+
+A procura por documentos e o contato adicional com a clínica podem gerar perda de tempo e eventuais custos indiretos. Não há informações suficientes para determinar sua condição financeira.
+
+### Contexto cultural
+
+Consultas médicas frequentemente envolvem orientações verbais e documentos impressos, como receitas e pedidos de exames.
+
+### Situações de uso
+
+* O problema começa durante ou logo após a consulta, quando Giselle recebe orientações que precisarão ser lembradas meses depois.
+* Ao retornar à rotina, ela prioriza tarefas mais imediatas e pode deixar de registrar a necessidade de agendamento futuro.
+* Os documentos físicos ficam guardados em casa, misturados a outros papéis, dificultando sua localização quando necessários.
+* A dificuldade se intensifica quando Giselle precisa marcar o retorno e recuperar informações de uma consulta anterior ao mesmo tempo.
+* A interação com clínicas acontece principalmente pelo WhatsApp ou por outros canais de atendimento, quando precisa confirmar informações ou resolver pendências.
+
+### Privacidade
+
+Como os documentos médicos contêm informações pessoais, sua privacidade deve ser considerada no ambiente em que são guardados e consultados.
+
+---
+
+# 5. Jornada do Usuário (Atual, Sem Solução) — Giselle
+
+| Etapa                                       | O que acontece                                                                                            | Estado emocional      |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------- |
+| **1. Consulta médica**                      | Giselle recebe a orientação de retornar em seis meses e leva pedidos de exames impressos.                 | Tranquila / confiante |
+| **2. Retorno à rotina**                     | Ela volta aos compromissos cotidianos e não registra adequadamente a necessidade de agendar o retorno.    | Despreocupada         |
+| **3. Documentos guardados**                 | Os pedidos de exames ficam misturados a outros papéis em uma gaveta.                                      | Indiferente           |
+| **4. Necessidade de consultar informações** | Giselle procura um pedido de exame, mas não consegue encontrá-lo facilmente.                              | Frustrada             |
+| **5. Lembrança do retorno**                 | Ela percebe que precisa marcar uma nova consulta, mas não tem certeza de quando deveria ter feito isso.   | Preocupada / insegura |
+| **6. Tentativa de resolver**                | Considera procurar novamente os documentos ou entrar em contato com a clínica para recuperar informações. | Cansada / frustrada   |
+| **7. Consequências**                        | Giselle percebe que perdeu tempo e pode ter deixado passar o período recomendado para o retorno.          | Decepcionada          |
 
 ```mermaid
 journey
-    title Jornada atual de Marina (sem solução)
-    section Formar o grupo
-      Colega cria grupo no WhatsApp: 8: Marina
-      Trocar mensagens animadas na 1ª semana: 7: Marina
-    section Grupo esvazia
-      Colegas param de responder: 3: Marina
-      Cobrar o grupo, sem retorno: 2: Marina
-    section Prova se aproxima
-      Estudar sozinha, sem saber se cobriu tudo: 1: Marina
+    title Jornada atual de Giselle (sem solução)
+    section Consulta médica
+      Receber orientação e pedidos de exames: 7: Giselle
+      Acreditar que lembrará do retorno: 6: Giselle
+    section Rotina cotidiana
+      Retomar os compromissos diários: 6: Giselle
+      Esquecer de planejar o retorno: 3: Giselle
+    section Busca por documentos
+      Procurar pedidos de exames guardados: 3: Giselle
+      Não encontrar as informações facilmente: 2: Giselle
+    section Tentativa de resolver
+      Tentar recuperar as informações médicas: 3: Giselle
+      Considerar entrar em contato com a clínica: 3: Giselle
+    section Consequências
+      Perceber o atraso no planejamento: 2: Giselle
+      Sentir frustração e preocupação: 2: Giselle
 ```
