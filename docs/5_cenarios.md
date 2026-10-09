@@ -14,13 +14,13 @@ Mesmo utilizando o celular diariamente, ela sente dificuldade para acompanhar o 
 
 # 2. Questões de Refinamento
 
-1. Isso acontece com todos os retornos médicos de Giselle ou principalmente com aqueles que precisam ser agendados meses depois?
-2. Por que Giselle esquece de registrar os retornos, mesmo utilizando um calendário digital diariamente?
-3. Com que frequência ela perde documentos médicos ou tem dificuldade para encontrá-los?
-4. Ela já precisou solicitar uma segunda via de um pedido de exame ou atrasar um procedimento por não encontrar o documento?
-5. Giselle já tentou utilizar alarmes, anotações ou outros métodos para evitar esses esquecimentos? O que aconteceu?
-6. O problema afeta somente Giselle ou ela também precisa organizar documentos médicos de familiares?
-7. Quais são as principais consequências dessa desorganização: perda de tempo, gastos extras, preocupação ou atraso no acompanhamento médico?
+- Isso acontece com todos os retornos médicos de Giselle ou principalmente com aqueles que precisam ser agendados meses depois?
+- Por que Giselle esquece de registrar os retornos, mesmo utilizando um calendário digital diariamente?
+- Com que frequência ela perde documentos médicos ou tem dificuldade para encontrá-los?
+- Ela já precisou solicitar uma segunda via de um pedido de exame ou atrasar um procedimento por não encontrar o documento?
+- Giselle já tentou utilizar alarmes, anotações ou outros métodos para evitar esses esquecimentos? O que aconteceu?
+- O problema afeta somente Giselle ou ela também precisa organizar documentos médicos de familiares?
+- Quais são as principais consequências dessa desorganização: perda de tempo, gastos extras, preocupação ou atraso no acompanhamento médico?
 
 ---
 
