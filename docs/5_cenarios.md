@@ -38,7 +38,6 @@ A situação gera frustração porque, apesar de sua familiaridade com a tecnolo
 
 O problema se torna especialmente difícil quando existe um intervalo longo entre as consultas, pois ela perde de vista tanto a necessidade de agendamento quanto a localização dos documentos relacionados ao atendimento anterior.
 
-> **Observação:** A repetição do problema em retornos de longo prazo e a possível solicitação de segunda via são hipóteses coerentes com o perfil fornecido, mas precisam ser confirmadas por pesquisa.
 
 ---
 
