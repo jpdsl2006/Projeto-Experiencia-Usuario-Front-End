@@ -10,7 +10,7 @@ Desenvolver uma prototipação de baixa fidelidade (Lo-Fi) para um aplicativo de
 
 A imagem abaixo apresenta os quatro principais fluxos de usuário desenvolvidos para o aplicativo.
 
-![Prototipação Lo-Fi do aplicativo de gerenciamento de consultas médicas](<img width="1536" height="1024" alt="Wireframes de Fluxos do App Saúde+" src="imagens/Wireframes de Fluxos do App Saúde+.png" />)
+![Prototipação Lo-Fi](images/prototipacao-lofi.png)
 
 ## Fluxos prototipados
 
