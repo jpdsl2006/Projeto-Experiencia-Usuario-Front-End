@@ -10,7 +10,7 @@ Desenvolver uma prototipação de baixa fidelidade (Lo-Fi) para um aplicativo de
 
 A imagem abaixo apresenta os quatro principais fluxos de usuário desenvolvidos para o aplicativo.
 
-![Prototipação Lo-Fi](images/prototipacao-lofi.png)
+![Prototipação Lo-Fi](Projeto-Experiencia-Usuario-Front-End/blob/main/docs/imagens/prototipacao-lofi.png)
 
 ## Fluxos prototipados
 
