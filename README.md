@@ -1,6 +1,6 @@
 # Projeto de Experiência do Usuário
 
-Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](http://lattes.cnpq.br/6747210702910392).
+Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário (CCP310) do curso de Ciência da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](http://lattes.cnpq.br/6747210702910392).
 
 Este projeto é desenvolvido pelos seguintes alunos:
 
@@ -13,7 +13,7 @@ Este projeto é desenvolvido pelos seguintes alunos:
 ### Sobre o Produto
 
 **Breve Descrição**
-O MedFEI é uma aplicação web responsiva (Single Page Application) focada em centralizar e simplificar a gestão da rotina de saúde. A plataforma atua como um assistente pessoal virtual para o paciente, consolidando marcações, informações clínicas e lembretes em um ambiente único e intuitivo.
+O Saúde+ é uma aplicação web responsiva (Single Page Application) focada em centralizar e simplificar a gestão da rotina de saúde. A plataforma atua como um assistente pessoal virtual para o paciente, consolidando marcações, informações clínicas e lembretes em um ambiente único e intuitivo.
 
 **Objetivo**
 O objetivo principal é auxiliar os pacientes a organizarem os seus compromissos médicos de forma eficiente, prevenindo o agendamento de especialidades diferentes no mesmo dia com conflitos de horário ou distâncias inviáveis, além de mitigar o esquecimento das consultas.
