@@ -28,6 +28,9 @@
 |  |  |  |  |  |  |
 
 **Links dos vídeos:**
+- Vídeo 1: https://youtu.be/-H_b5ERztqo
+- Vídeo 2: https://youtu.be/LhFKDiY_-oc
+- Vídeo 3: https://youtu.be/FiSr0UgGigE
 
 **Respostas do Formulário do Usuário:**
 
