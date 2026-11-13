@@ -1,56 +1,40 @@
-1) **Avaliação de IHC através de inspeção HEURÍSTICA \[1 solução completa por pessoa da equipe \- todas as telas do projeto\]**
+## Avaliação de IHC através de Inspeção Heurística
 
-> **_NOTE:_**: SOMENTE VIOLAÇÕES
+A avaliação heurística foi conduzida pelos membros da equipe (Gustavo, João Pedro e Luan) analisando todas as telas do protótipo **Saúde+** com base nas Dez Heurísticas de Nielsen (1994). O objetivo foi identificar violações de usabilidade e classificá-las de acordo com seu Grau de Severidade (0 a 4).
 
-Dez Heurísticas de Nielsen
+### 1. Violações Heurísticas Encontradas
+*(Consolidado das avaliações individuais da equipe)*
 
-**Descrição da avaliação**
+**Avaliador: Gustavo Souza**
+| Heurística Violada | Descrição do Problema | Severidade (0 a 4) | Print da Tela |
+| :--- | :--- | :---: | :--- |
+| **H7. Flexibilidade e eficiência de uso** | No formulário de "Nova Consulta", após o usuário selecionar a "Clínica", o sistema exige a digitação manual do "Local / Endereço". Isso gera ineficiência, pois o sistema já deveria preencher o endereço automaticamente com base na clínica selecionada. | **2** (Simples) | `[Inserir Print da tela de Nova Consulta com o campo de endereço vazio]` |
+| **H10. Ajuda e documentação** | Não há um botão de "Ajuda" (FAQ ou Suporte) visível no Dashboard ou na tela de Perfil para orientar usuários inexperientes sobre como adicionar ou gerenciar "Familiares/Dependentes". | **1** (Cosmético) | `[Inserir Print do Dashboard ou Perfil sem ícone de ajuda]` |
 
-Avaliação heurística, definida por Nielsen e Molich (1994), é um método de avaliação de usabilidade onde um avaliador procura problemas de usabilidade numa interface com o usuário através da análise e interpretação de um conjunto de princípios ou heurísticas. Este método de avaliação é baseado no julgamento do avaliador.
+**Avaliador: João Pedro**
+| Heurística Violada | Descrição do Problema | Severidade (0 a 4) | Print da Tela |
+| :--- | :--- | :---: | :--- |
+| **H1. Visibilidade do status do sistema** | Após agendar uma consulta para um Familiar (ex: Sr. Carlos), ao navegar para a aba "Histórico" e aplicar o filtro "Familiar", a nova consulta não apareceu de imediato, sugerindo uma falha na atualização de estado da tela em tempo real. | **3** (Grave) | `[Inserir Print da aba Histórico vazia após um agendamento]` |
+| **H3. Controle e liberdade para o usuário** | Durante o agendamento, se o usuário clicar acidentalmente fora da janela (modal) ou no botão de voltar do navegador, todos os dados preenchidos são perdidos sem um aviso de confirmação (ex: "Deseja realmente sair? Os dados serão perdidos"). | **3** (Grave) | `[Inserir Print do modal de agendamento em preenchimento]` |
 
-1\. Primeiramente, leia e analise as dez heurísticas (ver Tabela 1).
+**Avaliador: Luan Salandini**
+| Heurística Violada | Descrição do Problema | Severidade (0 a 4) | Print da Tela |
+| :--- | :--- | :---: | :--- |
+| **H9. Auxiliar os usuários a reconhecer erros** | Na tela de "Criar minha conta", se o usuário inserir um formato de e-mail inválido, a borda do campo fica vermelha, mas não há uma mensagem de texto clara embaixo (ex: "Insira um e-mail válido contendo @") explicando o motivo exato do erro. | **2** (Simples) | `[Inserir Print da tela de cadastro com o erro de e-mail sem texto explicativo]` |
+| **H5. Prevenção de erros** | Na seleção de data no Calendário para agendamento, o sistema permite que o usuário clique em dias que já passaram (datas retroativas), retornando o erro apenas ao tentar salvar, em vez de desabilitar (ficar cinza) os dias passados. | **2** (Simples) | `[Inserir Print do calendário do agendamento permitindo clique no passado]` |
 
-**Tabela 1 \- Conjunto de heurísticas de Nielsen (1994)**
+---
 
-| 1\. | Visibilidade do status do sistema: |
-| :---- | :---- |
-| O sistema deve sempre manter os usuários informados sobre o que está acontecendo através de feedback apropriado, em um tempo razoável. |  |
-| **2\.** | **Compatibilidade entre sistema e mundo real:** |
-| O sistema deve utilizar a linguagem do usuário, com palavras, frases e conceitos familiares para ele, ao invés de termos específicos de sistemas. Seguir convenções do mundo real, fazendo com que a informação apareça em uma ordem lógica e natural. |  |
-| **3\.** | **Controle e liberdade para o usuário:** |
-| Estão relacionados à situação em que os usuários frequentemente escolhem as funções do sistema por engano e então necessitam de "uma saída de emergência” claramente definida para sair do estado não desejado sem ter que percorrer um longo diálogo, ou seja, é necessário suporte a *undo* e *redo*. |  |
-| **4\.** | **Consistência e padrões:** |
-| Referem-se ao fato de que os usuários não deveriam ter acesso a diferentes situações, palavras ou ações representando a mesma coisa. A interface deve ter convenções não-ambíguas. |  |
-| **5\.** | **Prevenção de erros:** |
-| Os erros são as principais fontes de frustração, ineficiência e ineficácia durante a utilização do sistema. |  |
-| **6\.** |  **Reconhecimento em lugar de lembrança:** |
-| Tornar objetos, ações, opções visíveis e coerentes. O usuário não deve ter que lembrar informações de uma parte do diálogo para outra. Instruções para o uso do sistema devem estar visíveis ou facilmente acessíveis. |  |
-| **7\.** | **Flexibilidade e eficiência de uso:** |
-| A ineficiência nas tarefas pode reduzir a eficácia do usuário e causar-lhes frustração. O sistema deve ser adequado tanto para usuários inexperientes quanto para usuários experientes. |  |
-| **8\.** | **Projeto minimalista e estético:** |
-| Os diálogos não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação em um diálogo compete com unidades relevantes e diminui sua visibilidade relativa. |  |
-| **9\.** | **Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros:** |
-| Mensagens de erro devem ser expressas em linguagem natural (sem códigos), indicando precisamente o erro e sugerindo uma solução. |  |
-| **10\.** | **Ajuda e documentação:** |
-| Mesmo que seja melhor que o sistema possa ser usado sem documentação, pode ser necessário fornecer ajuda e documentação. Tais informações devem ser fáceis de encontrar, ser centradas na tarefa do usuário, listar passos concretos a serem seguidos e não ser muito grandes. A ajuda deve estar facilmente acessível e on-line. |  |
+### 2. Indicação de Boas Práticas - Heurísticas Não Violadas
+*(Exemplos de onde o Saúde+ atendeu perfeitamente aos princípios de Nielsen - Solução em Equipe)*
 
-2\. A seguir, avalie o sistema procurando possíveis problemas de usabilidade.   
-3\. Quando um problema qualquer for detectado, classifique-o em uma das dez heurísticas de Nielsen, anotando o problema na tabela correspondente e atribuindo o **grau de severidade** (0 até 4\) para este problema (dado pela tabela 2\) e recomece novamente até não encontrar mais problemas de usabilidade.
-
-**Tabela 2 \- Grau de severidade dos problemas de usabilidade**
-
-| Grau de severidade | Tipo | Descrição |
-| ----- | :---- | :---- |
-| 0 | Sem importância | Não afeta a operação da interface |
-| 1 | Cosmético | Não há necessidade imediata de solução |
-| 2 | Simples | Problema de baixa prioridade (pode ser reparado) |
-| 3 | Grave | Problema de alta prioridade (deve ser reparado) |
-| 4 | Catastrófico | Muito grave, deve ser reparado de qualquer forma. |
-
-> **_NOTE:_**: **colocar o print**
-
-> **_NOTE:_**: **escolher a tabela de declaração de violação padrão da equipe**
-
-2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
-
-> **_NOTE:_**: **1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
+- **H1. Visibilidade do status do sistema:** Atendida ao exibir um modal de *feedback* imediato ("Consulta agendada!") com um ícone de "check" verde assim que o usuário finaliza a marcação.
+- **H2. Compatibilidade entre sistema e mundo real:** O design da aba "Calendário" simula fielmente a aparência de uma agenda de papel de parede/smartphone, utilizando ícones e formatos de calendário que os pacientes já usam no dia a dia.
+- **H3. Controle e liberdade para o usuário:** Atendida na funcionalidade de "Excluir consulta" (botão vermelho claro) dentro dos detalhes da marcação, permitindo que o usuário cancele rapidamente um agendamento feito por engano.
+- **H4. Consistência e padrões:** As cores primárias (tons de azul para ações principais de salvar/continuar) e o formato dos botões mantêm o mesmo padrão visual do início ao fim em todas as telas.
+- **H5. Prevenção de erros:** O sistema possui o "Alerta de conflito", que bloqueia e avisa preventivamente o usuário caso ele tente agendar duas consultas no mesmo dia com horários e distâncias incompatíveis.
+- **H6. Reconhecimento em lugar de lembrança:** O Dashboard possui a seção "Próxima consulta" em destaque, assim o usuário reconhece imediatamente seu próximo compromisso sem precisar forçar a memória ou navegar até o calendário.
+- **H7. Flexibilidade e eficiência de uso:** A interface oferece "Atalhos rápidos" na página inicial (ex: Nova consulta, Meus documentos), criando uma rota mais curta e eficiente para as tarefas mais comuns.
+- **H8. Projeto minimalista e estético:** A tela de "Perfil" possui uma interface limpa, dividida em blocos com bastante respiro em branco (white space), sem excesso de informações que não sejam focadas nas permissões e cadastro.
+- **H9. Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros:** No cadastro, o campo de senha orienta o usuário antecipadamente com a mensagem "Mínimo de 6 caracteres", evitando que ele tente salvar senhas curtas e falhe.
+- **H10. Ajuda e documentação:** Os *placeholders* (textos cinzas dentro dos campos de preenchimento, como "Seu nome completo" ou "Digite a senha novamente") atuam como uma documentação contextual que guia o usuário sem a necessidade de um manual extenso.
