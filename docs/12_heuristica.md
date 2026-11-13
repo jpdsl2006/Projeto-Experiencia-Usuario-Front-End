@@ -8,20 +8,20 @@ A avaliação heurística foi conduzida pelos membros da equipe (Gustavo, João 
 **Avaliador: Gustavo Souza**
 | Heurística Violada | Descrição do Problema | Severidade (0 a 4) | Print da Tela |
 | :--- | :--- | :---: | :--- |
-| **H7. Flexibilidade e eficiência de uso** | No formulário de "Nova Consulta", após o usuário selecionar a "Clínica", o sistema exige a digitação manual do "Local / Endereço". Isso gera ineficiência, pois o sistema já deveria preencher o endereço automaticamente com base na clínica selecionada. | **2** (Simples) | `[Inserir Print da tela de Nova Consulta com o campo de endereço vazio]` |
-| **H10. Ajuda e documentação** | Não há um botão de "Ajuda" (FAQ ou Suporte) visível no Dashboard ou na tela de Perfil para orientar usuários inexperientes sobre como adicionar ou gerenciar "Familiares/Dependentes". | **1** (Cosmético) | `[Inserir Print do Dashboard ou Perfil sem ícone de ajuda]` |
+| **H7. Flexibilidade e eficiência de uso** | No formulário de "Nova Consulta", após o usuário selecionar a "Clínica", o sistema exige a digitação manual do "Local / Endereço". Isso gera ineficiência, pois o sistema já deveria preencher o endereço automaticamente com base na clínica selecionada. | **2** (Simples) | <img width="1920" height="710" alt="image" src="https://github.com/user-attachments/assets/5aeb7ef2-0b43-4993-97b2-5f7728529265" /> |
+| **H10. Ajuda e documentação** | Não há um botão de "Ajuda" (FAQ ou Suporte) visível no Dashboard ou na tela de Perfil para orientar usuários inexperientes sobre como adicionar ou gerenciar "Familiares/Dependentes". | **1** (Cosmético) | <img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/a173cb25-42ff-41f7-b24f-c30d69850766" /> |
 
 **Avaliador: João Pedro**
 | Heurística Violada | Descrição do Problema | Severidade (0 a 4) | Print da Tela |
 | :--- | :--- | :---: | :--- |
-| **H1. Visibilidade do status do sistema** | Após agendar uma consulta para um Familiar (ex: Sr. Carlos), ao navegar para a aba "Histórico" e aplicar o filtro "Familiar", a nova consulta não apareceu de imediato, sugerindo uma falha na atualização de estado da tela em tempo real. | **3** (Grave) | `[Inserir Print da aba Histórico vazia após um agendamento]` |
-| **H3. Controle e liberdade para o usuário** | Durante o agendamento, se o usuário clicar acidentalmente fora da janela (modal) ou no botão de voltar do navegador, todos os dados preenchidos são perdidos sem um aviso de confirmação (ex: "Deseja realmente sair? Os dados serão perdidos"). | **3** (Grave) | `[Inserir Print do modal de agendamento em preenchimento]` |
+| **H1. Visibilidade do status do sistema** | Após agendar uma consulta para um Familiar (ex: Sr. Carlos), ao navegar para a aba "Histórico" e aplicar o filtro "Familiar", a nova consulta não apareceu de imediato, sugerindo uma falha na atualização de estado da tela em tempo real. | **3** (Grave) | <img width="1920" height="930" alt="image" src="https://github.com/user-attachments/assets/9bcb6977-8817-47e7-b9fc-89572f3405a2" /> |
+| **H3. Controle e liberdade para o usuário** | Durante o agendamento, se o usuário clicar acidentalmente fora da janela (modal) ou no botão de voltar do navegador, todos os dados preenchidos são perdidos sem um aviso de confirmação (ex: "Deseja realmente sair? Os dados serão perdidos"). | **3** (Grave) | <img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/34feba64-a739-4eab-a190-645e08410cea" /> |
 
 **Avaliador: Luan Salandini**
 | Heurística Violada | Descrição do Problema | Severidade (0 a 4) | Print da Tela |
 | :--- | :--- | :---: | :--- |
-| **H9. Auxiliar os usuários a reconhecer erros** | Na tela de "Criar minha conta", se o usuário inserir um formato de e-mail inválido, a borda do campo fica vermelha, mas não há uma mensagem de texto clara embaixo (ex: "Insira um e-mail válido contendo @") explicando o motivo exato do erro. | **2** (Simples) | `[Inserir Print da tela de cadastro com o erro de e-mail sem texto explicativo]` |
-| **H5. Prevenção de erros** | Na seleção de data no Calendário para agendamento, o sistema permite que o usuário clique em dias que já passaram (datas retroativas), retornando o erro apenas ao tentar salvar, em vez de desabilitar (ficar cinza) os dias passados. | **2** (Simples) | `[Inserir Print do calendário do agendamento permitindo clique no passado]` |
+| **H1. Visibilidade do status do sistema** | Ao clicar no botão "Salvar agendamento", o sistema não exibe nenhum indicador visual de carregamento (como um *spinner* ou mudança de texto para "Salvando..."). Se a internet oscilar, o utilizador pode achar que não clicou e apertar o botão várias vezes. | **2** (Simples) | <img width="1920" height="931" alt="image" src="https://github.com/user-attachments/assets/c1404983-85c2-4a63-ad3e-39370183dcef" /> |
+| **H5. Prevenção de erros** | Na seleção de data no Calendário para agendamento, o sistema permite que o usuário clique em dias que já passaram (datas retroativas), retornando o erro apenas ao tentar salvar, em vez de desabilitar (ficar cinza) os dias passados. | **2** (Simples) | <img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/8b10515a-611f-49c5-8e31-e1d93559988f" /> |
 
 ---
 
