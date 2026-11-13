@@ -38,7 +38,7 @@ Autorizo a captação de áudio e gravação de tela durante a sessão para fins
 
 **Assinatura:** ______________________________________________________________
 
-**Data:** _____/_____/202__
+**Data:** 
 
 ---
 *Agradecemos a sua colaboração!*
